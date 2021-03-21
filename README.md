@@ -1,5 +1,5 @@
  - docker-compose up 
- - connect 
+ - connect - docker exec
  - python manage.py test
 
 also accessible at 
